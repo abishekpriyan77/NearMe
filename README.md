@@ -232,6 +232,7 @@ temple.html
 
 
 ## OUTPUT
+![Screenshot (190)](https://github.com/user-attachments/assets/ee544038-a071-4769-993b-60761277c072)
 
 ![alt text](<Screenshot (156).png>)
 
